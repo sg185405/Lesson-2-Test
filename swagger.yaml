@@ -7,7 +7,7 @@ basePath: /v1
 paths:
   /accounts/{id}:
     get:
-      description: Simple get mock.
+      description: Test-a-roo
       operationId: accounts/getBalance
       parameters:
       - in: path
